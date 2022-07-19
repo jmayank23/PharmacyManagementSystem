@@ -17,14 +17,23 @@ When the program is run, the first page asks for the student to login. Next, a p
 <img width="1351" alt="Screen Shot 2022-07-19 at 9 16 17 PM" src="https://user-images.githubusercontent.com/27727185/179793133-01826008-928f-4688-9b25-5e0b14a90e0b.png">
 
 ### Step 2 - Enter Login Credentials
-SNU Net ID - mj740 
-Password - mayank@123
-CLick on 'Login'
+SNU Net ID - mj740\
+Password - mayank@123\
+Click on 'Login'
 
 ### Step 3 - List of Medicines and Cart displayed
 Select a medicine and click on 'Add'
+
 <img width="1347" alt="Screen Shot 2022-07-19 at 9 18 47 PM" src="https://user-images.githubusercontent.com/27727185/179793941-42f86ec9-4cc1-4392-9d88-c001865e7fe1.png">
 
 ### Step 4 - Search functionality
 <img width="1346" alt="Screen Shot 2022-07-19 at 9 19 06 PM" src="https://user-images.githubusercontent.com/27727185/179795006-d7249065-f254-4a5f-9164-d3fdd81db2ef.png">
+
+### Step 5 - Medicine List updated based on quantity available
+Dollo 650 available in stock is 5. Once 5 of them have been added, the medicine will no longer be displayed in the medicine list. 
+
+<img width="1346" alt="Screen Shot 2022-07-19 at 9 19 48 PM" src="https://user-images.githubusercontent.com/27727185/179796655-6fed820a-4679-46e9-8a75-f286a14eb90a.png">
+
+### Step 6 - Click on Buy to generate bill
+<img width="1006" alt="Screen Shot 2022-07-19 at 9 33 43 PM" src="https://user-images.githubusercontent.com/27727185/179797288-0ffbb802-e58b-4ba3-b31c-4cc60301bf72.png">
 
