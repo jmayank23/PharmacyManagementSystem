@@ -18,7 +18,7 @@ This project utilizes sqlite3 to maintain a database (student.db) that contains 
 
 
 ## Description
-When the program is run, the first page asks for the student to login. Next, a page is shown with a list of medicines, upon selecting a medicine from the list, the price is displayed. There is also an option to search for medicine names where the search phrase may or may not be an exact match. For example, to search for "Dollo 650", a user may just enter "Dol" and all results would be populated. Once a medicine is selected, user may click on add and that medicine will be shown in the Cart. Depending on the quantity of medicine in stock, the medicine list will be updated in real time. Upone clicking "Buy", a bill will be generated and details of the transaction stored in the transactions table. Also, at the end of the transaction, the medicines quanities left will be updated in the table. 
+When the program is run, the first page asks for the student to login. Next, a page is shown with a list of medicines, upon selecting a medicine from the list, the price is displayed. There is also an option to search for medicine names where the search phrase may or may not be an exact match. For example, to search for "Dollo 650", a user may just enter "Dol" and all results would be populated. Once a medicine is selected, user may click on add and that medicine will be shown in the Cart. Depending on the quantity of medicine in stock, the medicine list will be updated in real time. Upone clicking "Buy", a bill will be generated and details of the transaction stored in the transactions table. Also, at the end of the transaction, the medicines quanities left will be updated in the table. This code runs on Python 3.9
 
 ## Usage
 ### Step 1 - Run PharmacyMgtSystem.py
