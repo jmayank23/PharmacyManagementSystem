@@ -37,3 +37,6 @@ Dollo 650 available in stock is 5. Once 5 of them have been added, the medicine 
 ### Step 6 - Click on Buy to generate bill
 <img width="1006" alt="Screen Shot 2022-07-19 at 9 33 43 PM" src="https://user-images.githubusercontent.com/27727185/179797288-0ffbb802-e58b-4ba3-b31c-4cc60301bf72.png">
 
+### Status of database after transaction is complete
+<img width="375" alt="Screen Shot 2022-07-19 at 9 34 48 PM" src="https://user-images.githubusercontent.com/27727185/179798021-2bbb3588-bc6d-4c0b-ae85-a25ad7986ed9.png"><img width="282" alt="Screen Shot 2022-07-19 at 9 34 24 PM" src="https://user-images.githubusercontent.com/27727185/179798067-9f828074-df31-4c32-b5a6-c8df0b188e56.png">
+
